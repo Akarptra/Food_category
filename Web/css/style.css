@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap");
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.menu_item_img {
+  width: 200px;
+  margin: 20px;
+}
+
+.menu_item {
+  background-color: pink;
+}
+
+.menu_item {
+  display: flex;
+}
+
+.menu_item .menu_item_title {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  color: aqua;
+  background-color: rgb(246, 146, 226);
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+}
+.navbar h1 {
+  text-align: center;
+}
+.navbar img {
+  width: 100px;
+}
